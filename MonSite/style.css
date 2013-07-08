@@ -1,0 +1,31 @@
+body, html  {
+     background:#0d0d0d url(fond1.jpg) no-repeat top center;
+	 margin:0;
+	 padding:0;
+	 font-family:Verdana, Arial, Helvetica, sans-serif;
+	 text-align:center;
+	 color:#FFF;
+	 background-attachment: fixed;
+	 font-size:12px;
+}
+/*input[type="submit"]{
+         
+	 width:125px;
+	 color: #FFF;
+	 text-decoration: none;
+	 background:url(menu.png) top no-repeat;
+	 font-weight:bold;
+         font-size:11px;
+	 padding:2px 0 0 0;
+}
+input[type="submit"]:hover{
+     background: url(menu.png) bottom no-repeat;
+}*/
+input[type=submit] {
+    background:url(button.gif) none;   
+    width:200px;
+    height:41px;
+}
+
+
+
